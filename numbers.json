@@ -9,8 +9,10 @@
         "Ambulance": "911",
         "Fire": "911",
         "Police": "911"
-      	},
-	   "Country": {
+      	}
+	},
+	  { 
+		"Country": {
         "Name": "Russian Federation",
         "ISOCode": "RU",
         "ISONumeric": "643",
