@@ -33,14 +33,6 @@
 		"Fire": "112",
 		"Police": "112"
       },
-      "Country": {
-        "Name": "United States of America",
-        "ISOCode": "US",
-        "ISONumeric": "840",
-		"Ambulance": "911",
-		"Fire": "911",
-		"Police": "911"
-      }
 	}
 ]
 }
