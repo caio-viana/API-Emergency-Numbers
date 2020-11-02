@@ -1,25 +1,25 @@
 
 {
   "data": [
-    {
-      "Country": {
-        "Name": "United States of America",
-        "ISOCode": "US",
-        "ISONumeric": "840",
-        "Ambulance": "911",
-        "Fire": "911",
-        "Police": "911"
-      	},
-	},
-	  {
-	    "Country": {
-        "Name": "Russian Federation",
-        "ISOCode": "RU",
-        "ISONumeric": "643",
-		"Ambulance":"112",
-		"Fire": "112",
-		"Police": "112"
+	  {	 
+		"Country": {
+        	"Name": "Russian Federation",
+        	"ISOCode": "RU",
+        	"ISONumeric": "643",
+			"Ambulance":"112",
+			"Fire": "112",
+			"Police": "112"
 		},
 	  },
+	  {
+		  "Country":{
+		    "Name": "Brazil",
+        	"ISOCode": "BR",
+        	"ISONumeric": "86",
+			"Ambulance":"192",
+			"Fire": "193",
+			"Police": "190"
+		  }
+	  }
 	]
 }
