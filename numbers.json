@@ -1,5 +1,6 @@
 {
-	"data": {
+	"data": [
+	{
       "Country": {
         "Name": "Croatia",
         "ISOCode": "HR",
@@ -40,6 +41,5 @@
 		"Fire": "911",
 		"Police": "911"
       }
+	]
 }
-
-		
