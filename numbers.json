@@ -16,6 +16,13 @@
 		"Fire": "193",
 		"Police": "190"
 		  }
-	  }
+	  },
+	  { 
+		  "Country": {
+        	"Name": "United States of America",
+		"Ambulance":"911",
+		"Fire":"911",
+		"Police":"911",
+	  },
 	]
 }
