@@ -11,15 +11,5 @@
 		"Police": "112"
 		}
 	  },
-	  {
-		"Country":{
-		 "Name": "Brazil",
-        	"ISOCode": "BR",
-        	"ISONumeric": "86",
-		"Ambulance":"192",
-		"Fire": "193",
-		"Police": "190"
-		  }
-	  }
 	]
 }
