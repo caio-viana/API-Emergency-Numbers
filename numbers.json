@@ -6,19 +6,19 @@
         	"Name": "Russian Federation",
         	"ISOCode": "RU",
         	"ISONumeric": "643",
-			"Ambulance":"112",
-			"Fire": "112",
-			"Police": "112"
+		"Ambulance":"112",
+		"Fire": "112",
+		"Police": "112"
 		}
 	  },
 	  {
-		  "Country":{
-		    "Name": "Brazil",
+		"Country":{
+		 "Name": "Brazil",
         	"ISOCode": "BR",
         	"ISONumeric": "86",
-			"Ambulance":"192",
-			"Fire": "193",
-			"Police": "190"
+		"Ambulance":"192",
+		"Fire": "193",
+		"Police": "190"
 		  }
 	  }
 	]
