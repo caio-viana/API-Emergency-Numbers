@@ -10,7 +10,7 @@
 		}
 	  },
 	  {
-		"Country":{
+		"Country": {
 		 "Name": "Brazil",
 		"Ambulance":"192",
 		"Fire": "193",
@@ -22,7 +22,7 @@
         	"Name": "United States of America",
 		"Ambulance":"911",
 		"Fire":"911",
-		"Police":"911",
+		"Police":"911"
 		  }  
 	},
 	]
